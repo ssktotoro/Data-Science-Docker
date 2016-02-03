@@ -1,0 +1,3 @@
+FROM Data_Science_Base
+
+RUN pip install nltk spacy gensim worsegment pattern textblob
